@@ -1,6 +1,8 @@
 # BP-Proxy-Switcher-Chrome-Extension
 An comprehensive guidance of BP Proxy Switcher. This article aims to provide a comprehensive overview of the BP Proxy Switcher, BP proxy switcher download, key features and benefits of BP Proxy Switcher, and how to use BP Proxy Switcher, how to add a proxy in BP Proxy Switcher.
 
+![How To Use BP Proxy Switcher Chrome Extension A Comprehensive Guide](https://github.com/OkeyProxyCom/BP-Proxy-Switcher-Chrome-Extension/assets/150340973/ccae80f0-05e0-4abf-9dbb-886dfcfbf479)
+
 What is BP Proxy Switcher?
 
 BP Proxy Switcher is a free application that allows users to manage and switch between multiple proxy settings quickly and seamlessly, enables localized testing, optimizes performance, and offers customization options. It is an excellent tool for web developers, testers, and users who need to navigate the web from different geographical locations without physically being there. 
