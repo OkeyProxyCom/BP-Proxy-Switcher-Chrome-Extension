@@ -73,3 +73,5 @@ Load the proxy list from a .txt file via URL every … minutes.
 In conclusion, BP Proxy Switcher is a versatile and user-friendly tool that offers a broad range of benefits to its users. Whether you are a web developer, SEO professional, or a regular internet user, it can make your online activities more efficient, secure, and unrestricted.
 
 Original text: https://www.okeyproxy.com/proxy/how-to-use-bp-proxy-switcher-chrome-extension/
+
+Video tutorial: https://youtu.be/_oeQZGMuR-o?si=mmSQOwZtVJj7zn3L
